@@ -15,6 +15,10 @@ Large, lifelike database
 ## Authors
 
 - [@AdarshKumar](https://github.com/adarsh-k-tiwari)
+- [@NeilRoy](https://github.com/NeilRoy678)
+- [@NehaJoshi](https://github.com/nehayj100)
+- [@JonathanGover](https://github.com/JonathanGover)
+- [@KimHwiyoon](https://github.com/hwiyoon_kim)
 
 
 ## Demo
