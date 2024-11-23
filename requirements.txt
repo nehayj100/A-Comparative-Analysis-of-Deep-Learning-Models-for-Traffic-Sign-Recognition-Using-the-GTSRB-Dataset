@@ -1,3 +1,10 @@
-torch>=2.5.1
-torchvision>=0.20.0
-skorch>=0.15.0
+torch>=1.9.0,<2.0
+torchvision>=0.10.0,<2.0
+numpy>=1.19.2
+opencv-python>=4.5.1
+scikit-learn>=0.24.2
+skorch>=0.11.0
+matplotlib>=3.3.4
+seaborn>=0.11.1
+scipy>=1.5.2
+Pillow>=8.0.0
