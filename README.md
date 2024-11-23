@@ -40,4 +40,4 @@ https://ecen-gtsrb.streamlit.app/
 
 ## Documentation
 
-[Report](Coming Soon)
+[Report](https://drive.google.com/file/d/1-Cq3amnH3rXuSc9BKq0B3u01fprC-mLV/view?usp=sharing)
